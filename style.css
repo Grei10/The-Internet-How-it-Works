@@ -1,0 +1,27 @@
+ytvideo {
+    clear: both;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.article {
+    border: 3px solid rgb(97, 180, 180);
+    margin-left: 13em;
+    padding: 1.25em 1.5em 1.5em 1.5em;
+    background: rgb(239, 253, 255);
+    line-height: 1.6;
+    overflow: hidden;
+}
+body {
+    background: rgb(137, 222, 236);
+    font-family: 'Roboto', serif;
+}
+.sidebar {
+    border: 3px solid rgb(97, 180, 180);
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    background: rgb(239, 253, 255);
+    line-height: 1em;
+    overflow: hidden;
+		float: left;
+}
